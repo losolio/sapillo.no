@@ -13,8 +13,10 @@
     "@remix-run/css-bundle": "^1.19.3",
     "@remix-run/node": "^1.19.3",
     "@remix-run/react": "^1.19.3",
+    "autoprefixer": "^10.4.15",
     "cross-env": "^7.0.3",
     "isbot": "^3.6.13",
+    "postcss": "^8.4.27",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "source-map-support": "^0.5.21"
@@ -27,6 +29,7 @@
     "@types/react-dom": "^18.2.7",
     "@types/source-map-support": "^0.5.6",
     "eslint": "^8.47.0",
+    "tailwindcss": "^3.3.3",
     "typescript": "^5.1.6"
   },
   "engines": {
